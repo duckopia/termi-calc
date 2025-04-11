@@ -1,0 +1,14 @@
+/home/kenjakun/Desktop/new/bin/Debug/net9.0/new
+/home/kenjakun/Desktop/new/bin/Debug/net9.0/new.deps.json
+/home/kenjakun/Desktop/new/bin/Debug/net9.0/new.runtimeconfig.json
+/home/kenjakun/Desktop/new/bin/Debug/net9.0/new.dll
+/home/kenjakun/Desktop/new/bin/Debug/net9.0/new.pdb
+/home/kenjakun/Desktop/new/obj/Debug/net9.0/new.GeneratedMSBuildEditorConfig.editorconfig
+/home/kenjakun/Desktop/new/obj/Debug/net9.0/new.AssemblyInfoInputs.cache
+/home/kenjakun/Desktop/new/obj/Debug/net9.0/new.AssemblyInfo.cs
+/home/kenjakun/Desktop/new/obj/Debug/net9.0/new.csproj.CoreCompileInputs.cache
+/home/kenjakun/Desktop/new/obj/Debug/net9.0/new.dll
+/home/kenjakun/Desktop/new/obj/Debug/net9.0/refint/new.dll
+/home/kenjakun/Desktop/new/obj/Debug/net9.0/new.pdb
+/home/kenjakun/Desktop/new/obj/Debug/net9.0/new.genruntimeconfig.cache
+/home/kenjakun/Desktop/new/obj/Debug/net9.0/ref/new.dll
